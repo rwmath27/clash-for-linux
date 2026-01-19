@@ -11,7 +11,7 @@ Log_Dir="$Server_Dir/logs"
 Clash_Bin="$Server_Dir/clash-linux-amd64-v1.3.5"
 
 # 订阅地址
-URL='https://subconverters.com/sub?target=clash&url=ssr%3A%2F%2FNjQuMTc2LjE2OS4xNzA6NjU0MzphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9mYXN0YXV0aDpkR3BzWVdJeU1qSS8%2FcmVtYXJrcz0mcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true'
+URL='更改为你的clash订阅地址'
 
 # 自定义的状态检查函数 (适配所有 Linux 发行版)
 check_status() {
